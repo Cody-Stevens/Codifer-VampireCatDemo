@@ -1,0 +1,11 @@
+To do
+
+1- Create heart DONE
+2- Create timer that then leads to the creation of children DONE
+3- Randomize visuals of characters DONE
+4- Create a list of stats which the next dev can inspire himself with DONE
+5- Create background artwork DONE
+6- Allow player to move camera DONE
+
+
+7- Finishing touches like PP and some sound effects
